@@ -1,8 +1,18 @@
 # About Me
 
-Chengxin (Michael) Xu is an assistant professor of the Institute of Public Service at Seattle University. Chengxin got his PhD from the School of Public Affairs and Administration (SPAA) at Rutgers University-Newark. He researches topics of public administration and nonprofit management, including the sector stereotype in social service market, inter-sectoral collaboration and competition. His studies draw on insights from theories of organizational behavior, social psychology, behavioral science, and sociology. Chengxin's current research uses an ecological approach to investigate people's perceptual and behavioral reactions to the hybridization of social mission and commercial mode in the traditional nonprofit sector. His work appears in _Journal of Public Administration Research and Theory_ (JPART), _Nonprofit and Voluntary Sector Quarterly_ (NVSQ), _Voluntas_, and _Philanthropy & Education_. 
+I am an assistant professor of the Institute of Public Service at Seattle University. I got my PhD from the School of Public Affairs and Administration (SPAA) at Rutgers University-Newark. My researches topics of public administration and nonprofit management, including the sector stereotype in social service market, inter-sectoral collaboration and competition. I can be reached out via cxu1(at)seattleu.edu.
+
+#Research
+## Journal Articles
+* The Perceived Differences: The Sector Stereotypes of Social Service Providers. 
+	* _Nonprofit and Voluntary Sector Quarterly_. Online first.
+
+* Philanthropy Can Be Learned: A Qualitative Study of Student Experiences in Experiential Philanthropy Courses. 
+	* with Huafang Li and Lindsey McDougle. _Philanthropy and Education_, Vol. 2, Iss 2, 2019, pp. 29-52.
 
 
+## Book Chapters and Others
+## Working Projects
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
